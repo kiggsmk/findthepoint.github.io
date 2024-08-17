@@ -21,7 +21,7 @@ Running Locally
 
     bash
 
-    git clone 
+    git clone https://github.com/kiggsmk/findthepoint.github.io.git
 
     Open index.html in your browser to start playing.
 
